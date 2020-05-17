@@ -1,4 +1,4 @@
-# CarND-Extended-Kalman-Filter-P1
+# Self Driving Car -> Extended-Kalman-Filter Project
 Udacity Self-Driving Car Nanodegree - Extended Kalman Filter Implementation
 
 # Overview
